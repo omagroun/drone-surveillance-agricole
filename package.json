@@ -1,0 +1,16 @@
+{
+  "name": "drone-surveillance-agricole",
+  "version": "1.0.0",
+  "description": "Système de surveillance agricole basé sur un Parrot AR.Drone 2.0, Node.js et ESP32 (FreeRTOS)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MAGROUN Omar",
+  "license": "MIT",
+  "dependencies": {
+    "ar-drone": "^2.0.0",
+    "keypress": "^0.2.1",
+    "ws": "^8.0.0"
+  }
+}
