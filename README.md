@@ -744,8 +744,7 @@ module.exports = { setupWebSocketServer, getLastSensorData, isEsp32Connected };
 
 ```bash
 # Cloner le repo
-git clone https://github.com/omagroun/drone-agricole.git
-cd drone-agricole
+git clone https://github.com/omagroun/drone-surveillance-agricole.git
 
 # Installer les dépendances
 npm install
