@@ -8,7 +8,7 @@
 **Auteur :** MAGROUN Omar  
 **Formation :** Master 2 — Systèmes Communicants en Environnement Complexe  
 **Institution :** Université Gustave Eiffel × Télécom SudParis  
-**Année :** 2023 / 2024
+**Année :** 2024 / 2025
 
 ---
 
